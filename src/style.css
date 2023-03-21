@@ -1,0 +1,16 @@
+html, body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  min-height: 150vh;
+}
+#canvasParent {
+  position: absolute;
+  top:0px;
+  left: 0px;
+  height: 1000px;
+  width: 100%;
+  background: #252525;
+ 
+}
